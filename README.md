@@ -1,17 +1,17 @@
 # Python-Flask-Demo
 
-What is Flask framework?
+#What is Flask framework?
 
-	Ø Is a Microframework
-	Ø Web framework for python based applications
-	Ø Used to build fast performing APIS
-	Ø Can be easily integrated with the current project
-	Ø Used to receive HTTP requests
-	Ø Used in routing the HTTP requests to the controller
-	Ø Dispatching the controller
-	Ø Returning the HTTP response
+	* Is a Microframework
+	* Web framework for python based applications
+	* Used to build fast performing APIS
+	* Can be easily integrated with the current project
+	* Used to receive HTTP requests
+	* Used in routing the HTTP requests to the controller
+	* Dispatching the controller
+	* Returning the HTTP response
 
-More features in Flask:
+#More features in Flask:
 	1. Supports plug n play model
 	2  Add extensions as needed from flask extensions library
 	3. Pick whichever the required extensions
