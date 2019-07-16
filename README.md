@@ -1,6 +1,6 @@
 # Python-Flask-Demo
 
-### What is Flask framework!
+### What is Flask framework?
 
   - Microframework for python based applications
   - Used to build fast performing APIs
@@ -33,12 +33,12 @@
   - Can be used as sandbox for development
   - Can be used to test solutions for different libraries and modules
   
-## Steps to setup this application
+### Steps to setup this application
   * git clone https://github.com/keerthikumarn/Python-Flask-Demo.git
   * Navigate to the root folder of the project
   * run the command : python App.py
   
-# REST APIs exposed in the application
+### REST APIs exposed in the application
   * https://localhost:5000/login
   * https://localhost:5000/employees
   * https://localhost:5000/employees/<employee_number>
