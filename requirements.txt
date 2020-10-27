@@ -3,7 +3,7 @@ Flask_SQLAlchemy == 2.4.0
 PyJWT == 1.7.1
 backports.functools_lru_cache == 1.5
 certifi == 2018.11.29
-cryptography == 2.6.1
+cryptography == 3.2
 lxml == 4.2.5
 numpy == 1.15.4
 protobuf == 3.8.0
