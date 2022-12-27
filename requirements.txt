@@ -10,5 +10,5 @@ protobuf == 3.8.0
 pyOpenSSL == 19.0.0
 pywin32 == 224
 requests == 2.21.0
-setuptools == 39.0.1
+setuptools == 65.5.1
 wheel == 0.33.4
